@@ -1,7 +1,5 @@
 package JavaPackages;
 
-import java.io.*;
-
 class PackagesTest {
 
    String name;
