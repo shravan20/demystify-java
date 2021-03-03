@@ -6,5 +6,9 @@ public class MyClass {
       num = 100;
    }
 
+   MyClass(int i ) {
+      num = i;
+   }
+
    
 }
