@@ -27,5 +27,8 @@ public class StrClass {
         result = str3.compareTo( str1 );
         System.out.println(result);
 
+        char resultChar = str2.charAt(8);
+        System.out.println(resultChar);
+
      }
 }
