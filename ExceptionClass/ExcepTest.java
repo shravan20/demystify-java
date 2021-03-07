@@ -1,5 +1,4 @@
 package ExceptionClass;
-
 // File Name : ExcepTest.java
 import java.io.*;
 
