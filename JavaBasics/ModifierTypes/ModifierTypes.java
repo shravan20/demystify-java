@@ -1,4 +1,4 @@
-package ModifierTypes;
+package JavaBasics.ModifierTypes;
 
 public class ModifierTypes {
     private boolean myFlag;
