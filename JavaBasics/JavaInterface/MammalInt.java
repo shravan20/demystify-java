@@ -1,4 +1,4 @@
-package JavaInterface;
+package JavaBasics.JavaInterface;
 
 public class MammalInt implements Animal {
 
