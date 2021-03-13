@@ -1,4 +1,4 @@
-package JavaPackagesTwo;
+package JavaBasics.JavaPackagesTwo;
 
 public class Packages {
 
