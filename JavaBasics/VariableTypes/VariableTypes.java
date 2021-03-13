@@ -1,4 +1,4 @@
-package VariableTypes;
+package JavaBasics.VariableTypes;
 
 public class VariableTypes {
     public void pupAge() {
