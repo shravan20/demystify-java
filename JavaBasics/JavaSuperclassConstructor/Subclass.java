@@ -1,4 +1,4 @@
-package JavaSuperclassConstructor;
+package JavaBasics.JavaSuperclassConstructor;
 
 
 public class Subclass extends Superclass {
