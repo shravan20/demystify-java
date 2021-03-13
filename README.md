@@ -1,4 +1,4 @@
-# demystify-java
+# Demystify Java
 Learning concepts of Java
 
 #### To run a Java Program
