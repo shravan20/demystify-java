@@ -1,4 +1,4 @@
-package RegexExample;
+package JavaBasics.RegexExample;
 
 import java.util.regex.*;  
 
