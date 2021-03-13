@@ -1,4 +1,4 @@
-package ExtendingInterfaces;
+package JavaBasics.ExtendingInterfaces;
 
 public interface Sports {
     public void setHomeTeam(String name);
