@@ -1,7 +1,9 @@
 package JavaPolymorphism;
 
 interface Vegetarian {}
+
 class Animal {}
+
 public class Deer extends Animal implements Vegetarian {
 
     public static void main(String [] args) {
