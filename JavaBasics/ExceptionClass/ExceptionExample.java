@@ -1,4 +1,4 @@
-package ExceptionClass;
+package JavaBasics.ExceptionClass;
 
 public class ExceptionExample {
     
