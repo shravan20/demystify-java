@@ -1,4 +1,4 @@
-package VariableTypes;
+package JavaBasics.VariableTypes;
 
 public class StaticVariable {
     // salary  variable is a private static variable
