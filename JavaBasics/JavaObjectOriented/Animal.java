@@ -1,4 +1,4 @@
-package JavaObjectOriented;
+package JavaBasics.JavaObjectOriented;
 
 interface Animal {
    public void eat();
