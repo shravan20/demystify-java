@@ -1,4 +1,4 @@
-package JavaPackagesTwo;
+package JavaBasics.JavaPackagesTwo;
 import JavaPackagesTwo.Packages.*;
 
 public class MainClass {
