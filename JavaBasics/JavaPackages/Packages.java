@@ -1,4 +1,4 @@
-package JavaPackages;
+package JavaBasics.JavaPackages;
 
 class PackagesTest {
 
