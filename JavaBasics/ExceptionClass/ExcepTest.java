@@ -1,4 +1,4 @@
-package ExceptionClass;
+package JavaBasics.ExceptionClass;
 // File Name : ExcepTest.java
 import java.io.*;
 
