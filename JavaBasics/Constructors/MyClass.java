@@ -1,4 +1,4 @@
-package Constructors;
+package JavaBasics.Constructors;
 
 public class MyClass {
    int num;
