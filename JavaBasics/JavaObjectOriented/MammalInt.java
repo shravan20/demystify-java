@@ -1,4 +1,4 @@
-package JavaObjectOriented;
+package JavaBasics.JavaObjectOriented;
 
 public class MammalInt implements Animal {
 
