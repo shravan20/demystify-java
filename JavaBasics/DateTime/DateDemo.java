@@ -1,4 +1,4 @@
-package DateTime;
+package JavaBasics.DateTime;
 import java.util.Date;
 
 public class DateDemo {
