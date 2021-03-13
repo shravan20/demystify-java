@@ -1,4 +1,4 @@
-package JavaPolymorphism;
+package JavaBasics.JavaPolymorphism;
 
 interface Vegetarian {}
 
