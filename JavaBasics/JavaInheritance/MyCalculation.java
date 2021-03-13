@@ -1,4 +1,4 @@
-package JavaInheritance;
+package JavaBasics.JavaInheritance;
 
 
 class Calculation {
