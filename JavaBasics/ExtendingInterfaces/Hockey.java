@@ -1,4 +1,4 @@
-package ExtendingInterfaces;
+package JavaBasics.ExtendingInterfaces;
 
 
 public interface Hockey extends Sports {
