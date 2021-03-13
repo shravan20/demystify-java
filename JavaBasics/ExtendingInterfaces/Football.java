@@ -1,4 +1,4 @@
-package ExtendingInterfaces;
+package JavaBasics.ExtendingInterfaces;
 
 public interface Football extends Sports {
     public void homeTeamScored(int points);
