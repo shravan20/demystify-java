@@ -1,4 +1,4 @@
-package NumberClass;
+package JavaBasics.NumberClass;
 
 public class Numbers {
 
