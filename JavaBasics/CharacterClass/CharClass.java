@@ -1,4 +1,4 @@
-package CharacterClass;
+package JavaBasics.CharacterClass;
 
 public class CharClass {
     
