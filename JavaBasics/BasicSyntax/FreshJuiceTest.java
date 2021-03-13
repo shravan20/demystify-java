@@ -1,4 +1,4 @@
-package BasicSyntax;
+package JavaBasics.BasicSyntax;
 
 class FreshJuice {
     enum FreshJuiceSize{ SMALL, MEDIUM, LARGE }
