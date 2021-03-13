@@ -1,4 +1,4 @@
-package ObjectsClasses;
+package JavaBasics.ObjectsClasses;
 
 public class Puppy {
 
