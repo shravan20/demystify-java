@@ -1,4 +1,4 @@
-package StringClass;
+package JavaBasics.StringClass;
 
 public class StrClass {
     public static void main(String args[]) {
