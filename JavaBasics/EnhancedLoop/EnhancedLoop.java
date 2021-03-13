@@ -1,4 +1,4 @@
-package EnhancedLoop;
+package JavaBasics.EnhancedLoop;
 
 public class EnhancedLoop {
     public static void main(String args[]) {
