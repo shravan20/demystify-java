@@ -7,3 +7,5 @@ Learning concepts of Java
 - Type `javac Simple.java` and press enter to compile your code.
 - Now, type `java Simple` to run your program.
 - You will be able to see the result printed on the window.
+
+---
