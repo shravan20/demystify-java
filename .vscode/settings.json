@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "JavaAdvance/Annotations/BuiltinAnnotations/SuppressWarningAnnotation",
+        "JavaAdvance/Annotations/CustomAnnotations"
+    ]
+}
