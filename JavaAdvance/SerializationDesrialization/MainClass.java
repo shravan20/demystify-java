@@ -6,6 +6,8 @@ public class MainClass {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         Person person = new Person();
+//        person.setUserAge(20);
+//        person.setName("Joe");
 
         FileOutputStream fileOutputStream = new FileOutputStream("yourfile.txt");
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);

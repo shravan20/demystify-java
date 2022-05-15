@@ -8,19 +8,19 @@ import java.io.Serializable;
 public class Person implements Serializable {
 
     private static final long serialVersionUID = 1L;
-    private int age;
+    private int userAge;
     private String name;
 
-    private void setAge(int age) {
-        this.age = age;
+    private void setAge(int userAge) {
+        this.userAge = userAge;
     }
 
     private void setName(String name) {
         this.name = name;
     }
 
-    private int getAge() {
-        return this.age;
+    private int getUserAge() {
+        return this.userAge;
     }
 
     private String getName() {
