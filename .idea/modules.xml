@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvance/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/JavaAdvance/Annotations/Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvance/Annotations/BuiltinAnnotations/BuiltinAnnotations.iml" filepath="$PROJECT_DIR$/JavaAdvance/Annotations/BuiltinAnnotations/BuiltinAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demystify-java.iml" filepath="$PROJECT_DIR$/demystify-java.iml" />
+    </modules>
+  </component>
+</project>
