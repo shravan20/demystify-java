@@ -1,13 +1,10 @@
 package JavaAdvance.SerializationDesrialization;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
+import java.io.*;
 
 public class MainClass {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException, ClassNotFoundException {
         Person person = new Person();
 
         FileOutputStream fileOutputStream = new FileOutputStream("yourfile.txt");
@@ -16,8 +13,7 @@ public class MainClass {
         objectOutputStream.flush();
         objectOutputStream.close();
 
-        FileInputStream fileInputStream
-                = new FileInputStream("yourfile.txt");
+        FileInputStream fileInputStream = new FileInputStream("yourfile.txt");
         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
         Person p2 = (Person) objectInputStream.readObject();
         objectInputStream.close();
